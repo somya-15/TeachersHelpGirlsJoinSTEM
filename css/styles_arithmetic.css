@@ -278,3 +278,21 @@ h3 {
   filter: drop-shadow(0px 0px 2px whitesmoke);
 }
 /* BACK ARROW */
+
+/*EMOTIONS*/
+
+#canvas{
+  position: relative;
+  top: 30px;
+  left: 0px;
+  z-index:1;
+}
+
+#video{
+  position: absolute;
+  top: 400px;
+  left: 400px;
+  z-index:0;
+  border: 3px #fff solid;
+	border-radius: 10px;
+}

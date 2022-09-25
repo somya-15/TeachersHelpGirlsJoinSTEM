@@ -62,7 +62,7 @@ var customScripts = {
                 return false;
             });
 			$("a[href='#basics']").click(function () {
-                $("html, body").animate({ scrollTop: $('#services').offset().top - 75 }, "slow"); 
+                $("html, body").animate({ scrollTop: $('#lesson').offset().top - 75 }, "slow"); 
                 return false;
             });
     }, 
