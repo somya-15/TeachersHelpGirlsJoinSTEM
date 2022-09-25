@@ -31,3 +31,13 @@ To never give up when the code is not working, and keep looking for the solution
 
 <img width="834" alt="graph" src="https://user-images.githubusercontent.com/73076997/192139613-d99ed5eb-53fc-4b48-8352-5b594549e093.png">
 
+## Project SetUp
+Fork the github/somya-15/TeachersHelpGirlsJoinSTEM repo
+You'll be making your own copy of the "TeachersHelpGirlsJoinSTEM website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop the github/somya-15/TeachersHelpGirlsJoinSTE.
+
+Once you've found a home for your forked repository, it's yours. You're the owner, so you're ready to publish, if you wish.
+
+Install in your local development environment
+If you want to manage your website in a local web development environment, you'll be using Ruby.
+
+Once you've found a home for your forked repository, **[clone it](https://github.com/somya-15/TeachersHelpGirlsJoinSTEM/cloning-a-repository/)**..
