@@ -32,4 +32,4 @@ Once you've found a home for your forked repository, it's yours. You're the owne
 Install in your local development environment
 If you want to manage your website in a local web development environment, you'll be using PHP as well.
 
-Once you've found a home for your forked repository, **[clone it](https://github.com/somya-15/TeachersHelpGirlsJoinSTEM/cloning-a-repository/)**..
+Once you've found a home for your forked repository, **[clone it](https://github.com/somya-15/TeachersHelpGirlsJoinSTEM/cloning-a-repository/)**.
