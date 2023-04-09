@@ -20,6 +20,8 @@ The front end of the web application is built with HTML, CSS and Javascript. The
 
 <img width="1440" alt="Screenshot 2022-09-25 at 12 34 39 PM" src="https://user-images.githubusercontent.com/73076997/192139627-67e021a8-0d9f-458f-a8e3-2740dd94352e.png">
 
+<img width="1440" alt="Screenshot 2023-04-09 at 7 46 21 PM" src="https://user-images.githubusercontent.com/73076997/230778652-a26bace7-84f8-44b7-ada8-fe5501818af1.png">
+
 <img width="834" alt="graph" src="https://user-images.githubusercontent.com/73076997/192139613-d99ed5eb-53fc-4b48-8352-5b594549e093.png">
 
 ## Project SetUp
